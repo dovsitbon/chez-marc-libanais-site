@@ -1,0 +1,58 @@
+{
+ "/media/hero/hero.jpg": [
+  1440,
+  1460
+ ],
+ "/media/mezzes/assiette-mezzes.jpg": [
+  1800,
+  1350
+ ],
+ "/media/mezzes/falafel.jpg": [
+  1013,
+  1800
+ ],
+ "/media/mezzes/fatayer-falafels.jpg": [
+  1600,
+  1600
+ ],
+ "/media/mezzes/pains-zaatar.jpg": [
+  1800,
+  1800
+ ],
+ "/media/mezzes/table-mezzes.jpg": [
+  1536,
+  1365
+ ],
+ "/media/mezzes/taboule.jpg": [
+  1350,
+  1800
+ ],
+ "/media/grillades/chawarma-poulet.jpg": [
+  1284,
+  963
+ ],
+ "/media/grillades/chich-taouk.jpg": [
+  1013,
+  1800
+ ],
+ "/media/grillades/kafta.jpg": [
+  1600,
+  1200
+ ],
+ "/media/desserts/baklawa.jpg": [
+  1350,
+  1800
+ ],
+ "/media/desserts/patisseries.jpg": [
+  1350,
+  1800
+ ],
+ "/media/salle/banquettes.jpg": [
+  1350,
+  1800
+ ],
+ "/media/salle/salle.jpg": [
+  1800,
+  1350
+ ]
+}

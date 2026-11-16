@@ -1,0 +1,40 @@
+{
+  "_doc": "Coordonnées et réglages généraux. rating : note Google relevée à la main (mettre à jour value, count et checked). whatsapp : portable au format international sans + (ex. 33687930680) ; vide tant que Marc n'a pas confirmé un numéro WhatsApp (un 06 87 93 06 80 figure sur une ancienne carte de visite, à confirmer). S'il est rempli, un bouton WhatsApp apparaît et les demandes peuvent aussi partir sur WhatsApp. thefork : page TheFork du restaurant (réservation déjà proposée par Google), affichée en lien secondaire. booking : réservation par le formulaire du site (délai minimum, jours proposés, taille max d'une table avant de passer en « groupe »). catering : traiteur et plateaux de mezzés, à confirmer avec Marc (confirmed = false : le site parle de « demande », sans promesse). payment.enabled : paiement en ligne, désactivé par défaut. paymentMethods : à remplir (vide = non affiché).",
+  "name": "Chez Marc",
+  "fullName": "Chez Marc · Restaurant libanais Paris 15",
+  "url": "https://chez-marc-libanais.vercel.app",
+  "phone": "01 43 06 82 96",
+  "phoneIntl": "+33143068296",
+  "whatsapp": "",
+  "email": "",
+  "address": {
+    "street": "12 rue des Volontaires",
+    "postalCode": "75015",
+    "city": "Paris",
+    "region": "Île-de-France",
+    "country": "FR"
+  },
+  "geo": { "lat": 48.8427247, "lng": 2.3068714 },
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chez+Marc+Libanais+12+rue+des+Volontaires+75015+Paris",
+  "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Chez+Marc+Libanais+12+rue+des+Volontaires+75015+Paris",
+  "reviewsUrl": "https://www.google.com/maps/place/Chez+Marc+Libanais/@48.8427247,2.3068714,17z/data=!4m8!3m7!1s0x47e6703a34b8da23:0xaa054648a6596d1a!8m2!3d48.8427247!4d2.3068714!9m1!1b1",
+  "mapsEmbed": "https://www.google.com/maps?q=Chez+Marc+Libanais,+12+rue+des+Volontaires,+75015+Paris&z=16&output=embed",
+  "instagram": "https://www.instagram.com/restaurantchezmarc/",
+  "instagramHandle": "@restaurantchezmarc",
+  "thefork": "https://www.thefork.fr/restaurant/chez-marc-r18491",
+  "rating": { "value": 4.6, "count": 885, "source": "Google", "checked": "2026-11-16" },
+  "priceRange": "20–30 €",
+  "metro": [
+    { "station": "Volontaires", "lines": ["12"], "walk": 2 },
+    { "station": "Pasteur", "lines": ["6", "12"], "walk": 6 }
+  ],
+  "booking": { "enabled": true, "leadMinutes": 60, "daysAhead": 60, "stepMinutes": 15, "lastSeatingBeforeClose": 45, "maxGuests": 12 },
+  "catering": { "enabled": true, "confirmed": false, "minGuests": 6, "maxGuests": 200, "daysAhead": 365 },
+  "payment": {
+    "enabled": false,
+    "provider": "stripe",
+    "_doc": "Paiement en ligne (acompte d'une commande traiteur ou d'un bon cadeau), plus tard : passer enabled à true et renseigner STRIPE_SECRET_KEY sur Vercel (voir app/api/paiement/route.ts)."
+  },
+  "legal": { "company": "Chez Marc", "siret": "", "director": "", "host": "Vercel Inc., 440 N Barranca Ave #4133, Covina, CA 91723, États-Unis" },
+  "paymentMethods": { "fr": "", "en": "", "ar": "" }
+}

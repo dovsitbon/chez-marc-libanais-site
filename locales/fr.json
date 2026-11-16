@@ -1,0 +1,456 @@
+{
+  "meta": {
+    "title": "Restaurant libanais à Paris 15, rue des Volontaires | Chez Marc",
+    "description": "Chez Marc, restaurant libanais fait maison au 12 rue des Volontaires, Paris 15 : mezzés, grillades, pâtisseries libanaises et thé à la menthe. Ouvert 7 j/7 midi et soir. Réservez au 01 43 06 82 96.",
+    "ogAlt": "Table couverte de mezzés libanais chez Marc, Paris 15",
+    "cuisines": [
+      "Libanaise",
+      "Mezzés",
+      "Grillades"
+    ]
+  },
+  "intro": {
+    "skip": "Passer",
+    "tagline": "RESTAURANT LIBANAIS"
+  },
+  "announce": {
+    "close": "Fermer le message"
+  },
+  "nav": {
+    "skip": "Aller au contenu",
+    "main": "Navigation principale",
+    "home": "accueil",
+    "menu": "La carte",
+    "mezzes": "Mezzés",
+    "catering": "Traiteur",
+    "book": "Réserver",
+    "infos": "Infos",
+    "gift": "Bon cadeau",
+    "bookCta": "Réserver une table",
+    "bookShort": "Réserver",
+    "call": "Appeler",
+    "directions": "Itinéraire",
+    "seeMenu": "Voir la carte",
+    "lang": "Langue",
+    "openMenu": "Ouvrir le menu",
+    "close": "Fermer",
+    "shortcuts": "En un geste"
+  },
+  "status": {
+    "open": "Ouvert maintenant",
+    "closed": "Fermé en ce moment",
+    "until": "jusqu'à {time}",
+    "opens": "ouvre {day} à {time}",
+    "today": "aujourd'hui",
+    "tomorrow": "demain"
+  },
+  "rating": {
+    "label": "{value}/5 sur Google",
+    "count": "{count} avis",
+    "aria": "Note Google : {value} sur 5, {count} avis"
+  },
+  "hero": {
+    "eyebrow": "Cuisine libanaise · Mezzés · Paris 15",
+    "title": "Le Liban, mezzé après mezzé",
+    "sub": "La cuisine libanaise authentique, sans chichi et conviviale. Tout est fait maison, rue des Volontaires.",
+    "ctaBook": "Réserver une table",
+    "ctaMenu": "Voir la carte"
+  },
+  "tiles": {
+    "title": "Ce qui vous attend sur la table",
+    "items": {
+      "froids": "Mezzés froids",
+      "chauds": "Mezzés chauds",
+      "grillades": "Grillades",
+      "assortiments": "Assortiments à partager",
+      "patisseries": "Pâtisseries libanaises",
+      "the": "Thé à la menthe"
+    },
+    "photoSoon": "Photo à venir"
+  },
+  "services": {
+    "title": "Chez Marc, en bref",
+    "items": [
+      {
+        "id": "maison",
+        "t": "Cuisine libanaise maison",
+        "p": "Hommos, taboulé, feuilles de vigne et pâtisseries : tout est préparé sur place."
+      },
+      {
+        "id": "resa",
+        "t": "Réservation",
+        "p": "Midi et soir, 7 j/7. En ligne ou au 01 43 06 82 96."
+      },
+      {
+        "id": "emporter",
+        "t": "À emporter et traiteur",
+        "p": "Plateaux de mezzés et de pâtisseries pour vos fêtes et vos bureaux, sur demande."
+      },
+      {
+        "id": "groupes",
+        "t": "Groupes et familles",
+        "p": "Anniversaires, repas d'équipe, grandes tablées : parlons-en ensemble."
+      }
+    ]
+  },
+  "carte": {
+    "eyebrow": "La carte",
+    "title": "Mezzés, grillades et douceurs",
+    "intro": "Les plats qui font la réputation de la maison, avec leurs prix. Le petit drapeau signale les suggestions du chef, le V les plats végétariens.",
+    "tabsLabel": "Rubriques de la carte",
+    "priceOnSite": "Prix sur place",
+    "veg": "Végétarien",
+    "vegShort": "V",
+    "signature": "Suggestion du chef",
+    "checked": "Prix nets TTC, service compris, relevés le {date}. Origine de la viande bovine : Europe. Photos non contractuelles.",
+    "seeAll": "Toute la carte",
+    "toCheck": "à confirmer"
+  },
+  "blocks": [
+    {
+      "id": "mezzes",
+      "eyebrow": "À partager",
+      "title": "Des mezzés pour toute la table",
+      "p": "Huit petits plats froids et chauds arrivent ensemble, on se sert, on fait passer le pain. Hommos, moutabal, taboulé, fatayer, falafels : c'est la façon libanaise de commencer un repas, et souvent de le finir.",
+      "cta": "Voir la carte"
+    },
+    {
+      "id": "salle",
+      "eyebrow": "La salle",
+      "title": "Une salle rouge, un accueil souriant",
+      "p": "Murs grenade, nappes blanches, banquettes claires et le Liban en tableaux aux murs. On vous reçoit comme à la maison, que vous veniez à deux, en famille ou entre collègues.",
+      "cta": "Réserver une table"
+    },
+    {
+      "id": "traiteur",
+      "eyebrow": "Traiteur",
+      "title": "Les mezzés de Marc chez vous",
+      "p": "Pour un anniversaire, un pot de départ ou un repas au bureau, Marc prépare des plateaux de mezzés et des assortiments de pâtisseries libanaises. Dites-nous la date et le nombre d'invités.",
+      "cta": "Demander un devis"
+    }
+  ],
+  "story": {
+    "eyebrow": "Pour la petite histoire",
+    "title": "Des montagnes du Liban à la rue des Volontaires",
+    "p": [
+      "Marc est né dans un village perché dans les montagnes libanaises. Il a grandi avec toute une culture culinaire transmise par ses parents, et il a décidé à son tour de la partager.",
+      "C'est ainsi qu'il s'est installé rue des Volontaires, au cœur du 15e arrondissement. Tout ce que vous goûtez ici est fait maison.",
+      "Il vous souhaite un bon appétit, et espère, le temps d'un repas, vous faire voyager vers les senteurs et les parfums de son enfance."
+    ],
+    "sign": "À vos fourchettes !",
+    "photoSoon": "Photo à venir : Marc en cuisine"
+  },
+  "booking": {
+    "eyebrow": "Réserver",
+    "title": "Réserver une table",
+    "intro": "Choisissez le jour, le service et l'heure. Nous vous rappelons si besoin pour confirmer.",
+    "day": "Date",
+    "service": "Service",
+    "services": {
+      "midi": "Midi",
+      "soir": "Soir"
+    },
+    "time": "Heure",
+    "noTime": "Plus de créneau en ligne pour ce service : appelez-nous.",
+    "closedDay": "Le restaurant est fermé ce jour-là.",
+    "guests": "Nombre de personnes",
+    "guestsHint": "Au-delà de {max} personnes, passez par la demande de groupe.",
+    "groupLink": "Demande de groupe",
+    "occasion": "Occasion",
+    "occasionOptional": "facultatif",
+    "occasions": {
+      "none": "Aucune en particulier",
+      "birthday": "Anniversaire",
+      "family": "Repas de famille",
+      "couple": "En amoureux",
+      "business": "Repas d'affaires",
+      "celebration": "Fête",
+      "other": "Autre"
+    },
+    "messagePlaceholder": "Une chaise haute, un plat sans gluten, une table au calme…",
+    "submit": "Envoyer la demande de réservation",
+    "theforkLead": "Vous préférez une plateforme ?",
+    "thefork": "Réserver aussi sur TheFork",
+    "note": "Votre table est confirmée quand nous vous l'écrivons ou vous appelons. Pour ce soir ou demain midi, le plus simple reste le téléphone.",
+    "sentTitle": "Merci, votre demande est partie",
+    "sentText": "Nous revenons vers vous rapidement pour confirmer votre table.",
+    "sentEmail": "Un récapitulatif vient de vous être envoyé par e-mail.",
+    "mail": {
+      "subject": "Réservation",
+      "title": "Nouvelle demande de réservation",
+      "date": "Date",
+      "time": "Heure",
+      "guests": "Personnes",
+      "occasion": "Occasion",
+      "name": "Nom",
+      "phone": "Téléphone",
+      "email": "E-mail",
+      "message": "Message",
+      "lang": "Langue du client",
+      "confirmSubject": "Chez Marc : votre demande de réservation",
+      "confirmIntro": "Bonjour {name},\n\nMerci pour votre demande de réservation chez Marc. Nous la confirmons au plus vite. En voici le récapitulatif :",
+      "confirmOutro": "À très bientôt rue des Volontaires,\nMarc et son équipe\n12 rue des Volontaires, 75015 Paris · 01 43 06 82 96"
+    }
+  },
+  "catering": {
+    "eyebrow": "Traiteur et groupes",
+    "title": "Plateaux de mezzés, pâtisseries et grandes tablées",
+    "intro": "Racontez-nous votre projet : nous vous répondons avec une proposition et un prix.",
+    "unconfirmed": "Le service traiteur se fait sur demande : chaque projet est confirmé par Marc.",
+    "points": [
+      "Plateaux de mezzés froids et chauds, prêts à partager",
+      "Assortiments de pâtisseries libanaises : baklawa, namoura, bourma…",
+      "Grillades et chawarma pour les plus grandes faims",
+      "Groupes au restaurant : anniversaires, repas d'équipe, fêtes de famille"
+    ],
+    "type": "Votre demande",
+    "types": {
+      "traiteur": "Traiteur (à emporter ou livré)",
+      "groupe": "Groupe au restaurant"
+    },
+    "day": "Date de l'événement",
+    "guests": "Nombre de personnes",
+    "guestsHint": "À partir de {min} personnes.",
+    "wantsLabel": "Ce qui vous ferait plaisir",
+    "wants": {
+      "froids": "Mezzés froids",
+      "chauds": "Mezzés chauds",
+      "grillades": "Grillades",
+      "assortiments": "Assortiments à partager",
+      "patisseries": "Pâtisseries libanaises",
+      "boissons": "Boissons"
+    },
+    "budget": "Budget par personne",
+    "budgetOptional": "facultatif",
+    "budgetPlaceholder": "ex. 25 €",
+    "messagePlaceholder": "Le lieu, l'heure, les régimes particuliers, le type d'événement…",
+    "submit": "Envoyer la demande de devis",
+    "sentTitle": "Merci, votre demande est bien partie",
+    "sentText": "Marc revient vers vous avec une proposition.",
+    "sentEmail": "Un récapitulatif vient de vous être envoyé par e-mail.",
+    "mail": {
+      "subject": "Demande traiteur / groupe",
+      "title": "Nouvelle demande traiteur ou groupe",
+      "type": "Demande",
+      "date": "Date",
+      "guests": "Personnes",
+      "wants": "Souhaits",
+      "budget": "Budget par personne",
+      "name": "Nom",
+      "phone": "Téléphone",
+      "email": "E-mail",
+      "message": "Message",
+      "confirmSubject": "Chez Marc : votre demande traiteur",
+      "confirmIntro": "Bonjour {name},\n\nMerci pour votre demande. Marc l'étudie et revient vers vous avec une proposition. Voici ce que vous nous avez indiqué :",
+      "confirmOutro": "À très bientôt,\nMarc et son équipe\n12 rue des Volontaires, 75015 Paris · 01 43 06 82 96"
+    }
+  },
+  "form": {
+    "name": "Nom",
+    "phone": "Téléphone",
+    "email": "E-mail",
+    "emailOptional": "pour recevoir le récapitulatif",
+    "message": "Message",
+    "optional": "facultatif",
+    "required": "Champ obligatoire",
+    "invalidPhone": "Vérifiez le numéro de téléphone",
+    "invalidEmail": "Vérifiez l'adresse e-mail",
+    "sending": "Envoi…",
+    "error": "L'envoi n'a pas abouti. Réessayez, ou appelez-nous au 01 43 06 82 96.",
+    "notNotified": "Pour être sûr que nous l'avons bien reçue, appelez-nous au 01 43 06 82 96 : c'est le plus rapide.",
+    "callNow": "Appeler le restaurant",
+    "whatsapp": "Envoyer aussi sur WhatsApp",
+    "again": "Faire une autre demande",
+    "privacy": "Vos coordonnées servent uniquement à répondre à votre demande."
+  },
+  "reviews": {
+    "eyebrow": "Ils en parlent",
+    "title": "Ce que disent nos clients",
+    "intro": "Les mezzés, le sourire du service et les pâtisseries reviennent souvent dans les avis. Les vôtres auront bientôt leur place ici.",
+    "slot": "Avis client à venir",
+    "seeGoogle": "Lire les avis sur Google"
+  },
+  "infos": {
+    "eyebrow": "Infos pratiques",
+    "title": "Nous trouver",
+    "address": "Adresse",
+    "metro": "Métro",
+    "metroLine": "{station}, ligne {lines}, à {walk} min à pied",
+    "metroLines": "{station}, lignes {lines}, à {walk} min à pied",
+    "and": "et",
+    "hours": "Horaires",
+    "phone": "Téléphone",
+    "days": [
+      "Lundi",
+      "Mardi",
+      "Mercredi",
+      "Jeudi",
+      "Vendredi",
+      "Samedi",
+      "Dimanche"
+    ],
+    "closed": "Fermé",
+    "lunch": "Midi",
+    "dinner": "Soir",
+    "mapTitle": "Plan d'accès, Chez Marc, 12 rue des Volontaires",
+    "mapLoad": "Afficher le plan",
+    "mapNote": "Le plan Google se charge seulement si vous le demandez.",
+    "photoSoon": "Photo à venir : la façade"
+  },
+  "faq": {
+    "eyebrow": "Questions fréquentes",
+    "title": "Bon à savoir",
+    "items": [
+      {
+        "q": "Faut-il réserver ?",
+        "a": "C'est conseillé le soir et le week-end, la salle se remplit vite. En semaine à midi, vous trouverez souvent une table sans réserver. Réservez en ligne ou au 01 43 06 82 96."
+      },
+      {
+        "q": "La viande est-elle halal ?",
+        "a": "Posez-nous la question au moment de réserver : nous vous dirons ce qu'il en est pour chaque plat. La viande bovine vient d'Europe. Le restaurant sert aussi des vins libanais et de l'arak."
+      },
+      {
+        "q": "Y a-t-il des plats végétariens et vegan ?",
+        "a": "Beaucoup. Une bonne partie des mezzés est végétarienne (hommos, moutabal, taboulé, falafels, fatayer, feuilles de vigne, foul…) et il existe un mezzé végétarien complet à 24 €. Plusieurs sont aussi sans produit animal : demandez-nous lesquels."
+      },
+      {
+        "q": "Accueillez-vous les groupes ?",
+        "a": "Oui : anniversaires, repas d'équipe, fêtes de famille. Au-delà de 12 personnes, envoyez-nous une demande de groupe pour que nous préparions la salle et le menu."
+      },
+      {
+        "q": "Peut-on emporter ?",
+        "a": "Appelez-nous au 01 43 06 82 96 : nous vous dirons ce que vous pouvez emporter et quand passer. Pour une fête ou un repas de bureau, demandez nos plateaux de mezzés et de pâtisseries."
+      },
+      {
+        "q": "Quels moyens de paiement acceptez-vous ?",
+        "a": "Demandez-nous au moment de réserver, nous vous répondrons."
+      },
+      {
+        "q": "Y a-t-il un menu pour les enfants ?",
+        "a": "Oui, le menu Bambino à 13,90 € pour les moins de 10 ans : une brochette, un yaourt au sirop de fleur d'oranger et une boisson."
+      }
+    ]
+  },
+  "gift": {
+    "title": "Offrir un repas chez Marc",
+    "p": "Un anniversaire, un remerciement, un départ : offrez un dîner libanais. Appelez-nous, nous vous expliquons comment faire.",
+    "cta": "Appeler pour un bon cadeau"
+  },
+  "footer": {
+    "tagline": "La cuisine libanaise authentique, sans chichi et conviviale.",
+    "hours": "Horaires",
+    "everyday": "Tous les jours",
+    "mondayEvening": "Le lundi soir jusqu'à {time}",
+    "pages": "Le restaurant",
+    "legal": "Mentions légales",
+    "rights": "Chez Marc, restaurant libanais. Tous droits réservés."
+  },
+  "pages": {
+    "carte": {
+      "title": "La carte",
+      "metaTitle": "Carte et prix | Chez Marc, restaurant libanais Paris 15",
+      "metaDescription": "La carte de Chez Marc avec les prix : mezzés froids et chauds, grillades, chawarma, menus midi et soir, pâtisseries libanaises, thé à la menthe. Paris 15, métro Volontaires.",
+      "h1": "La carte",
+      "intro": "Mezzés froids et chauds, grillades à la plancha, menus et pâtisseries. Tout est fait maison."
+    },
+    "reserver": {
+      "title": "Réserver",
+      "metaTitle": "Réserver une table | Chez Marc, restaurant libanais Paris 15",
+      "metaDescription": "Réservez votre table chez Marc, restaurant libanais rue des Volontaires, Paris 15 : midi et soir, 7 j/7. En ligne ou au 01 43 06 82 96.",
+      "h1": "Réserver une table",
+      "intro": "Midi de 12 h à 14 h 30, soir à partir de 18 h 45, tous les jours."
+    },
+    "traiteur": {
+      "title": "Traiteur libanais",
+      "metaTitle": "Traiteur libanais Paris 15 : plateaux de mezzés | Chez Marc",
+      "metaDescription": "Traiteur libanais à Paris : plateaux de mezzés, assortiments de pâtisseries libanaises et grillades pour vos fêtes et vos bureaux. Demande de devis en ligne, Chez Marc, Paris 15.",
+      "h1": "Traiteur libanais à Paris",
+      "intro": "Les mezzés et les pâtisseries de Marc pour vos fêtes, vos réunions et vos repas de bureau.",
+      "sections": [
+        {
+          "h": "Des plateaux à partager",
+          "p": [
+            "Hommos, moutabal, taboulé, feuilles de vigne, falafels, fatayer, samboussik : les mezzés se prêtent naturellement aux buffets. Marc compose les plateaux selon votre nombre d'invités et vos envies, avec des options végétariennes."
+          ]
+        },
+        {
+          "h": "Les pâtisseries libanaises",
+          "p": [
+            "Baklawa aux pistaches, namoura au miel, bourma, mouhalabieh à la fleur d'oranger : un assortiment de pâtisseries fait toujours son effet en fin de repas ou pour un goûter."
+          ]
+        },
+        {
+          "h": "Comment ça se passe",
+          "p": [
+            "Envoyez-nous la date, le nombre de personnes et ce qui vous ferait plaisir. Marc vous répond avec une proposition et un prix. Le retrait se fait au restaurant, 12 rue des Volontaires ; pour une livraison, parlons-en."
+          ]
+        }
+      ]
+    },
+    "paris15": {
+      "title": "Restaurant libanais Paris 15",
+      "metaTitle": "Restaurant libanais à Paris 15, métro Volontaires | Chez Marc",
+      "metaDescription": "Chez Marc, restaurant libanais du 15e arrondissement, 12 rue des Volontaires, entre Volontaires et Pasteur : mezzés maison, grillades, pâtisseries. 4,6/5 sur Google.",
+      "h1": "Restaurant libanais à Paris 15",
+      "intro": "Entre les métros Volontaires et Pasteur, une adresse libanaise où tout est fait maison.",
+      "sections": [
+        {
+          "h": "Une cuisine libanaise faite maison",
+          "p": [
+            "Chez Marc, l'hommos, le taboulé, le moutabal, les feuilles de vigne et les pâtisseries sont préparés sur place. La carte suit les classiques de la table libanaise : mezzés froids et chauds, grillades à la plancha, chawarma, kebbé."
+          ]
+        },
+        {
+          "h": "Pour le midi comme pour le soir",
+          "p": [
+            "Le midi en semaine, le menu à 16,90 € réunit une grillade, trois mezzés et un dessert ou un café. Le soir, le menu à 26,90 € ou un mezzé complet pour prendre son temps."
+          ]
+        },
+        {
+          "h": "Facile d'accès dans le 15e",
+          "p": [
+            "Le restaurant est au 12 rue des Volontaires, à deux minutes du métro Volontaires (ligne 12) et à quelques minutes de Pasteur (lignes 6 et 12), près de la rue de Vaugirard."
+          ]
+        }
+      ]
+    },
+    "cadeau": {
+      "title": "Bon cadeau",
+      "metaTitle": "Offrir un repas libanais | Chez Marc, Paris 15",
+      "metaDescription": "Offrez un dîner libanais chez Marc, rue des Volontaires, Paris 15 : appelez le 01 43 06 82 96 pour un bon cadeau.",
+      "h1": "Offrir un repas chez Marc",
+      "intro": "Un anniversaire, un remerciement, un départ : un dîner libanais se partage, même en cadeau."
+    },
+    "legal": {
+      "title": "Mentions légales",
+      "metaTitle": "Mentions légales | Chez Marc",
+      "metaDescription": "Mentions légales du site de Chez Marc, restaurant libanais, Paris 15.",
+      "h1": "Mentions légales",
+      "editor": "Éditeur du site",
+      "host": "Hébergeur",
+      "data": "Données personnelles",
+      "dataText": "Les informations envoyées par les formulaires (nom, téléphone, e-mail, message) servent uniquement à répondre à votre demande et ne sont ni revendues ni utilisées à d'autres fins. Le site ne dépose pas de cookie publicitaire ; le plan Google ne se charge que si vous le demandez. Pour toute question : 01 43 06 82 96.",
+      "credits": "Photos",
+      "creditsText": "Photos du restaurant et de ses plats. Logo redessiné d'après les supports de Chez Marc.",
+      "toFill": "à compléter",
+      "director": "Directeur de la publication"
+    }
+  },
+  "photoSlot": "Photo à venir",
+  "alt": {
+    "hero": "Table vue de dessus couverte de mezzés : hommos, moutabal, fatayer, salade et pain libanais",
+    "assiette-mezzes": "Assiette de mezzés : hommos, moutabal, taboulé, samboussik et tomates",
+    "taboule": "Taboulé libanais au persil dans un plat en terre cuite",
+    "fatayer-falafels": "Plateau de samboussik dorés et de falafels",
+    "table-mezzes": "Mezzés servis dans des plats en terre : hommos, taboulé, moutabal, fatayer",
+    "pains-zaatar": "Pains libanais au zaatar et au sésame",
+    "falafel": "Falafels nappés de crème de sésame, tomates et piments",
+    "kafta": "Brochettes de kafta avec hommos et taboulé",
+    "chawarma-poulet": "Chawarma au poulet avec crème de sésame, taboulé et hommos",
+    "chich-taouk": "Brochettes de chich taouk, hommos et salade",
+    "baklawa": "Assortiment de baklawas aux pistaches",
+    "patisseries": "Pâtisseries libanaises au miel et aux pistaches",
+    "salle": "La salle rouge de Chez Marc, tables dressées et banquettes",
+    "banquettes": "Tables nappées de rouge et de blanc devant les banquettes"
+  }
+}

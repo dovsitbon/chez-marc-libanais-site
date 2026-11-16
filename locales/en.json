@@ -1,0 +1,456 @@
+{
+  "meta": {
+    "title": "Lebanese restaurant in Paris 15, rue des Volontaires | Chez Marc",
+    "description": "Chez Marc, a homemade Lebanese restaurant at 12 rue des Volontaires, Paris 15: mezze, grills, Lebanese pastries and mint tea. Open 7 days a week, lunch and dinner. Book on +33 1 43 06 82 96.",
+    "ogAlt": "A table covered with Lebanese mezze at Chez Marc, Paris 15",
+    "cuisines": [
+      "Lebanese",
+      "Mezze",
+      "Grill"
+    ]
+  },
+  "intro": {
+    "skip": "Skip",
+    "tagline": "LEBANESE RESTAURANT"
+  },
+  "announce": {
+    "close": "Close message"
+  },
+  "nav": {
+    "skip": "Skip to content",
+    "main": "Main navigation",
+    "home": "home",
+    "menu": "Menu",
+    "mezzes": "Mezze",
+    "catering": "Catering",
+    "book": "Book",
+    "infos": "Visit",
+    "gift": "Gift voucher",
+    "bookCta": "Book a table",
+    "bookShort": "Book",
+    "call": "Call",
+    "directions": "Directions",
+    "seeMenu": "See the menu",
+    "lang": "Language",
+    "openMenu": "Open menu",
+    "close": "Close",
+    "shortcuts": "Quick links"
+  },
+  "status": {
+    "open": "Open now",
+    "closed": "Closed now",
+    "until": "until {time}",
+    "opens": "opens {day} at {time}",
+    "today": "today",
+    "tomorrow": "tomorrow"
+  },
+  "rating": {
+    "label": "{value}/5 on Google",
+    "count": "{count} reviews",
+    "aria": "Google rating: {value} out of 5, {count} reviews"
+  },
+  "hero": {
+    "eyebrow": "Lebanese cooking · Mezze · Paris 15",
+    "title": "Lebanon, one mezze at a time",
+    "sub": "Authentic Lebanese food, no fuss, plenty of warmth. Everything is homemade, on rue des Volontaires.",
+    "ctaBook": "Book a table",
+    "ctaMenu": "See the menu"
+  },
+  "tiles": {
+    "title": "What's waiting on the table",
+    "items": {
+      "froids": "Cold mezze",
+      "chauds": "Hot mezze",
+      "grillades": "Grills",
+      "assortiments": "Sharing platters",
+      "patisseries": "Lebanese pastries",
+      "the": "Mint tea"
+    },
+    "photoSoon": "Photo coming soon"
+  },
+  "services": {
+    "title": "Chez Marc at a glance",
+    "items": [
+      {
+        "id": "maison",
+        "t": "Homemade Lebanese food",
+        "p": "Hummus, tabbouleh, vine leaves and pastries: everything is made here."
+      },
+      {
+        "id": "resa",
+        "t": "Bookings",
+        "p": "Lunch and dinner, 7 days a week. Online or on +33 1 43 06 82 96."
+      },
+      {
+        "id": "emporter",
+        "t": "Takeaway and catering",
+        "p": "Mezze and pastry platters for parties and offices, on request."
+      },
+      {
+        "id": "groupes",
+        "t": "Groups and families",
+        "p": "Birthdays, team lunches, long tables: let's talk."
+      }
+    ]
+  },
+  "carte": {
+    "eyebrow": "The menu",
+    "title": "Mezze, grills and sweets",
+    "intro": "The dishes the house is known for, with prices. The little flag marks the chef's picks, the V marks vegetarian dishes.",
+    "tabsLabel": "Menu sections",
+    "priceOnSite": "Price on site",
+    "veg": "Vegetarian",
+    "vegShort": "V",
+    "signature": "Chef's pick",
+    "checked": "Net prices incl. VAT and service, noted on {date}. Beef from Europe. Photos for illustration.",
+    "seeAll": "Full menu",
+    "toCheck": "to be confirmed"
+  },
+  "blocks": [
+    {
+      "id": "mezzes",
+      "eyebrow": "To share",
+      "title": "Mezze for the whole table",
+      "p": "Eight small dishes, cold and hot, arrive together; everyone helps themselves and passes the bread. Hummus, moutabal, tabbouleh, fatayer, falafel: that's how a Lebanese meal begins, and often how it ends.",
+      "cta": "See the menu"
+    },
+    {
+      "id": "salle",
+      "eyebrow": "The dining room",
+      "title": "A red room and a warm welcome",
+      "p": "Pomegranate-red walls, white tablecloths, pale banquettes and Lebanon in pictures on the walls. You're welcomed like family, whether you come as two, with the kids or with colleagues.",
+      "cta": "Book a table"
+    },
+    {
+      "id": "traiteur",
+      "eyebrow": "Catering",
+      "title": "Marc's mezze, at your place",
+      "p": "For a birthday, a leaving do or an office lunch, Marc prepares mezze platters and assortments of Lebanese pastries. Tell us the date and how many guests.",
+      "cta": "Ask for a quote"
+    }
+  ],
+  "story": {
+    "eyebrow": "A little history",
+    "title": "From the mountains of Lebanon to rue des Volontaires",
+    "p": [
+      "Marc was born in a village high in the Lebanese mountains. He grew up with a whole food culture handed down by his parents, and decided, in turn, to share it.",
+      "That's how he came to rue des Volontaires, in the heart of the 15th arrondissement. Everything you taste here is homemade.",
+      "He wishes you a good meal, and hopes that for a couple of hours you'll travel back with him to the scents and flavours of his childhood."
+    ],
+    "sign": "Bon appétit!",
+    "photoSoon": "Photo coming soon: Marc in the kitchen"
+  },
+  "booking": {
+    "eyebrow": "Book",
+    "title": "Book a table",
+    "intro": "Pick a day, a service and a time. We'll call you back if we need to confirm.",
+    "day": "Date",
+    "service": "Service",
+    "services": {
+      "midi": "Lunch",
+      "soir": "Dinner"
+    },
+    "time": "Time",
+    "noTime": "No more online slots for this service: please give us a call.",
+    "closedDay": "The restaurant is closed that day.",
+    "guests": "Number of guests",
+    "guestsHint": "For more than {max} people, please send a group request.",
+    "groupLink": "Group request",
+    "occasion": "Occasion",
+    "occasionOptional": "optional",
+    "occasions": {
+      "none": "Nothing in particular",
+      "birthday": "Birthday",
+      "family": "Family meal",
+      "couple": "Date night",
+      "business": "Business meal",
+      "celebration": "Celebration",
+      "other": "Other"
+    },
+    "messagePlaceholder": "A high chair, a gluten-free dish, a quiet table…",
+    "submit": "Send booking request",
+    "theforkLead": "Prefer a booking platform?",
+    "thefork": "Book on TheFork too",
+    "note": "Your table is confirmed once we've written or called you. For tonight or tomorrow lunch, the phone is still the quickest.",
+    "sentTitle": "Thank you, your request is on its way",
+    "sentText": "We'll get back to you shortly to confirm your table.",
+    "sentEmail": "A summary has just been sent to your email.",
+    "mail": {
+      "subject": "Booking",
+      "title": "New booking request",
+      "date": "Date",
+      "time": "Time",
+      "guests": "Guests",
+      "occasion": "Occasion",
+      "name": "Name",
+      "phone": "Phone",
+      "email": "Email",
+      "message": "Message",
+      "lang": "Customer language",
+      "confirmSubject": "Chez Marc: your booking request",
+      "confirmIntro": "Hello {name},\n\nThank you for your booking request at Chez Marc. We'll confirm it as soon as possible. Here's a summary:",
+      "confirmOutro": "See you soon on rue des Volontaires,\nMarc and the team\n12 rue des Volontaires, 75015 Paris · +33 1 43 06 82 96"
+    }
+  },
+  "catering": {
+    "eyebrow": "Catering and groups",
+    "title": "Mezze platters, pastries and long tables",
+    "intro": "Tell us about your plans and we'll come back with a proposal and a price.",
+    "unconfirmed": "Catering is on request: Marc confirms each order personally.",
+    "points": [
+      "Cold and hot mezze platters, ready to share",
+      "Lebanese pastry assortments: baklava, namoura, bourma…",
+      "Grills and shawarma for bigger appetites",
+      "Groups at the restaurant: birthdays, team meals, family parties"
+    ],
+    "type": "Your request",
+    "types": {
+      "traiteur": "Catering (collection or delivery)",
+      "groupe": "Group at the restaurant"
+    },
+    "day": "Date of the event",
+    "guests": "Number of people",
+    "guestsHint": "From {min} people.",
+    "wantsLabel": "What you'd like",
+    "wants": {
+      "froids": "Cold mezze",
+      "chauds": "Hot mezze",
+      "grillades": "Grills",
+      "assortiments": "Sharing platters",
+      "patisseries": "Lebanese pastries",
+      "boissons": "Drinks"
+    },
+    "budget": "Budget per person",
+    "budgetOptional": "optional",
+    "budgetPlaceholder": "e.g. €25",
+    "messagePlaceholder": "Venue, time, dietary needs, type of event…",
+    "submit": "Send quote request",
+    "sentTitle": "Thank you, your request has been sent",
+    "sentText": "Marc will get back to you with a proposal.",
+    "sentEmail": "A summary has just been sent to your email.",
+    "mail": {
+      "subject": "Catering / group request",
+      "title": "New catering or group request",
+      "type": "Request",
+      "date": "Date",
+      "guests": "Guests",
+      "wants": "Wishes",
+      "budget": "Budget per person",
+      "name": "Name",
+      "phone": "Phone",
+      "email": "Email",
+      "message": "Message",
+      "confirmSubject": "Chez Marc: your catering request",
+      "confirmIntro": "Hello {name},\n\nThank you for your request. Marc is looking at it and will get back to you with a proposal. Here's what you told us:",
+      "confirmOutro": "Speak soon,\nMarc and the team\n12 rue des Volontaires, 75015 Paris · +33 1 43 06 82 96"
+    }
+  },
+  "form": {
+    "name": "Name",
+    "phone": "Phone",
+    "email": "Email",
+    "emailOptional": "to receive a summary",
+    "message": "Message",
+    "optional": "optional",
+    "required": "Required",
+    "invalidPhone": "Please check the phone number",
+    "invalidEmail": "Please check the email address",
+    "sending": "Sending…",
+    "error": "Something went wrong. Please try again, or call us on +33 1 43 06 82 96.",
+    "notNotified": "To be sure we've received it, please call us on +33 1 43 06 82 96: it's the quickest way.",
+    "callNow": "Call the restaurant",
+    "whatsapp": "Send it on WhatsApp too",
+    "again": "Make another request",
+    "privacy": "Your details are only used to answer your request."
+  },
+  "reviews": {
+    "eyebrow": "What people say",
+    "title": "Our guests' words",
+    "intro": "The mezze, the smiling service and the pastries come up again and again in reviews. Yours will soon have their place here.",
+    "slot": "Guest review coming soon",
+    "seeGoogle": "Read the reviews on Google"
+  },
+  "infos": {
+    "eyebrow": "Visit",
+    "title": "Find us",
+    "address": "Address",
+    "metro": "Metro",
+    "metroLine": "{station}, line {lines}, {walk} min walk",
+    "metroLines": "{station}, lines {lines}, {walk} min walk",
+    "and": "and",
+    "hours": "Opening hours",
+    "phone": "Phone",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "closed": "Closed",
+    "lunch": "Lunch",
+    "dinner": "Dinner",
+    "mapTitle": "Map, Chez Marc, 12 rue des Volontaires",
+    "mapLoad": "Show the map",
+    "mapNote": "The Google map only loads if you ask for it.",
+    "photoSoon": "Photo coming soon: the shopfront"
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Good to know",
+    "items": [
+      {
+        "q": "Do I need to book?",
+        "a": "It's best in the evening and at weekends, as the room fills up quickly. On weekday lunchtimes you'll often find a table without booking. Book online or on +33 1 43 06 82 96."
+      },
+      {
+        "q": "Is the meat halal?",
+        "a": "Just ask us when you book and we'll tell you for each dish. The beef comes from Europe. The restaurant also serves Lebanese wines and arak."
+      },
+      {
+        "q": "Are there vegetarian and vegan dishes?",
+        "a": "Plenty. Many of the mezze are vegetarian (hummus, moutabal, tabbouleh, falafel, fatayer, vine leaves, foul…) and there's a full vegetarian mezze at €24. Several are also free of animal products: ask us which."
+      },
+      {
+        "q": "Do you take groups?",
+        "a": "Yes: birthdays, team meals, family parties. For more than 12 people, send us a group request so we can prepare the room and the menu."
+      },
+      {
+        "q": "Can I take food away?",
+        "a": "Call us on +33 1 43 06 82 96 and we'll tell you what you can take away and when to come by. For a party or an office lunch, ask about our mezze and pastry platters."
+      },
+      {
+        "q": "Which payment methods do you accept?",
+        "a": "Ask us when you book and we'll let you know."
+      },
+      {
+        "q": "Is there a children's menu?",
+        "a": "Yes, the Bambino menu at €13.90 for under-10s: a skewer, orange-blossom yoghurt and a drink."
+      }
+    ]
+  },
+  "gift": {
+    "title": "Give a meal at Chez Marc",
+    "p": "A birthday, a thank-you, a farewell: give a Lebanese dinner. Call us and we'll explain how.",
+    "cta": "Call about a gift voucher"
+  },
+  "footer": {
+    "tagline": "Authentic Lebanese food, no fuss, plenty of warmth.",
+    "hours": "Opening hours",
+    "everyday": "Every day",
+    "mondayEvening": "Monday evenings until {time}",
+    "pages": "The restaurant",
+    "legal": "Legal notice",
+    "rights": "Chez Marc, Lebanese restaurant. All rights reserved."
+  },
+  "pages": {
+    "carte": {
+      "title": "Menu",
+      "metaTitle": "Menu and prices | Chez Marc, Lebanese restaurant Paris 15",
+      "metaDescription": "Chez Marc's menu with prices: cold and hot mezze, grills, shawarma, lunch and dinner set menus, Lebanese pastries, mint tea. Paris 15, Volontaires metro.",
+      "h1": "The menu",
+      "intro": "Cold and hot mezze, plancha grills, set menus and pastries. Everything is homemade."
+    },
+    "reserver": {
+      "title": "Book",
+      "metaTitle": "Book a table | Chez Marc, Lebanese restaurant Paris 15",
+      "metaDescription": "Book your table at Chez Marc, Lebanese restaurant on rue des Volontaires, Paris 15: lunch and dinner, 7 days a week. Online or on +33 1 43 06 82 96.",
+      "h1": "Book a table",
+      "intro": "Lunch from 12 pm to 2:30 pm, dinner from 6:45 pm, every day."
+    },
+    "traiteur": {
+      "title": "Lebanese catering",
+      "metaTitle": "Lebanese catering in Paris: mezze platters | Chez Marc",
+      "metaDescription": "Lebanese catering in Paris: mezze platters, Lebanese pastry assortments and grills for parties and offices. Ask for a quote online, Chez Marc, Paris 15.",
+      "h1": "Lebanese catering in Paris",
+      "intro": "Marc's mezze and pastries for your parties, meetings and office lunches.",
+      "sections": [
+        {
+          "h": "Platters to share",
+          "p": [
+            "Hummus, moutabal, tabbouleh, vine leaves, falafel, fatayer, samboussik: mezze are made for buffets. Marc puts the platters together around your guest count and tastes, with vegetarian options."
+          ]
+        },
+        {
+          "h": "Lebanese pastries",
+          "p": [
+            "Pistachio baklava, honey namoura, bourma, orange-blossom mouhalabieh: a pastry assortment always goes down well at the end of a meal or for an afternoon treat."
+          ]
+        },
+        {
+          "h": "How it works",
+          "p": [
+            "Send us the date, the number of people and what you'd like. Marc replies with a proposal and a price. Collection is at the restaurant, 12 rue des Volontaires; for delivery, let's talk."
+          ]
+        }
+      ]
+    },
+    "paris15": {
+      "title": "Lebanese restaurant Paris 15",
+      "metaTitle": "Lebanese restaurant in Paris 15, Volontaires metro | Chez Marc",
+      "metaDescription": "Chez Marc, a Lebanese restaurant in the 15th arrondissement, 12 rue des Volontaires, between Volontaires and Pasteur: homemade mezze, grills, pastries. 4.6/5 on Google.",
+      "h1": "Lebanese restaurant in Paris 15",
+      "intro": "Between Volontaires and Pasteur metro stations, a Lebanese address where everything is homemade.",
+      "sections": [
+        {
+          "h": "Homemade Lebanese cooking",
+          "p": [
+            "At Chez Marc, the hummus, tabbouleh, moutabal, vine leaves and pastries are made on site. The menu follows the classics of the Lebanese table: cold and hot mezze, plancha grills, shawarma, kibbeh."
+          ]
+        },
+        {
+          "h": "Lunch or dinner",
+          "p": [
+            "On weekday lunchtimes, the €16.90 menu brings together a grill, three mezze and a dessert or coffee. In the evening, the €26.90 menu or a full mezze to take your time."
+          ]
+        },
+        {
+          "h": "Easy to reach in the 15th",
+          "p": [
+            "The restaurant is at 12 rue des Volontaires, two minutes from Volontaires metro (line 12) and a few minutes from Pasteur (lines 6 and 12), near rue de Vaugirard."
+          ]
+        }
+      ]
+    },
+    "cadeau": {
+      "title": "Gift voucher",
+      "metaTitle": "Give a Lebanese meal | Chez Marc, Paris 15",
+      "metaDescription": "Give a Lebanese dinner at Chez Marc, rue des Volontaires, Paris 15: call +33 1 43 06 82 96 for a gift voucher.",
+      "h1": "Give a meal at Chez Marc",
+      "intro": "A birthday, a thank-you, a farewell: a Lebanese dinner is made for sharing, even as a gift."
+    },
+    "legal": {
+      "title": "Legal notice",
+      "metaTitle": "Legal notice | Chez Marc",
+      "metaDescription": "Legal notice for the Chez Marc website, Lebanese restaurant, Paris 15.",
+      "h1": "Legal notice",
+      "editor": "Publisher",
+      "host": "Hosting",
+      "data": "Personal data",
+      "dataText": "Information sent through the forms (name, phone, email, message) is only used to answer your request and is never sold or used for anything else. The site sets no advertising cookies; the Google map only loads if you ask for it. Any question: +33 1 43 06 82 96.",
+      "credits": "Photos",
+      "creditsText": "Photos of the restaurant and its dishes. Logo redrawn from Chez Marc's own materials.",
+      "toFill": "to be completed",
+      "director": "Publication director"
+    }
+  },
+  "photoSlot": "Photo coming soon",
+  "alt": {
+    "hero": "Overhead view of a table covered with mezze: hummus, moutabal, fatayer, salad and Lebanese bread",
+    "assiette-mezzes": "Mezze plate: hummus, moutabal, tabbouleh, samboussik and tomatoes",
+    "taboule": "Parsley tabbouleh in an earthenware dish",
+    "fatayer-falafels": "Platter of golden samboussik and falafel",
+    "table-mezzes": "Mezze in earthenware dishes: hummus, tabbouleh, moutabal, fatayer",
+    "pains-zaatar": "Lebanese flatbreads with za'atar and sesame",
+    "falafel": "Falafel with sesame sauce, tomatoes and peppers",
+    "kafta": "Kafta skewers with hummus and tabbouleh",
+    "chawarma-poulet": "Chicken shawarma with sesame sauce, tabbouleh and hummus",
+    "chich-taouk": "Shish taouk skewers, hummus and salad",
+    "baklawa": "Assorted pistachio baklava",
+    "patisseries": "Lebanese pastries with honey and pistachios",
+    "salle": "Chez Marc's red dining room, laid tables and banquettes",
+    "banquettes": "Tables in red and white linen in front of the banquettes"
+  }
+}

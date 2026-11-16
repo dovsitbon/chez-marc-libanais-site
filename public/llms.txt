@@ -1,0 +1,9 @@
+# Chez Marc — restaurant libanais, Paris 15
+
+> Restaurant libanais fait maison au 12 rue des Volontaires, 75015 Paris (métro Volontaires, ligne 12 ; Pasteur, lignes 6 et 12). Mezzés froids et chauds, grillades à la plancha, chawarma, pâtisseries libanaises, thé à la menthe. Ouvert 7 j/7 : 12 h – 14 h 30 et 18 h 45 – 22 h 45 (22 h 30 le lundi). Note Google 4,6/5 (885 avis, novembre 2026). Téléphone : 01 43 06 82 96. Prix : 20 à 30 € par personne ; menu midi 16,90 € (lundi–vendredi), menu soir 26,90 €.
+
+- [Carte et prix](https://chez-marc-libanais.vercel.app/fr/carte)
+- [Réserver une table](https://chez-marc-libanais.vercel.app/fr/reserver)
+- [Traiteur libanais Paris](https://chez-marc-libanais.vercel.app/fr/traiteur-libanais-paris)
+- [Restaurant libanais Paris 15](https://chez-marc-libanais.vercel.app/fr/restaurant-libanais-paris-15)
+- [English](https://chez-marc-libanais.vercel.app/en) · [العربية](https://chez-marc-libanais.vercel.app/ar)

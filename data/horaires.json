@@ -1,0 +1,15 @@
+{
+  "_doc": "Horaires (heure de Paris). 1 = lundi … 7 = dimanche. 7 j/7 : midi 12 h – 14 h 30, soir 18 h 45 – 22 h 45 (22 h 30 le lundi). Relevé sur la fiche Google le 2026-11-16, à confirmer avec Marc. closures : fermetures sur une période (vacances…), from / to inclus (AAAA-MM-JJ) ; pendant la période, le site affiche « Fermé » et le bandeau du haut l'annonce. exceptions : un jour particulier, « closed » ou des créneaux (ex. 25 décembre). Le statut « Ouvert / Fermé » en direct et les heures proposées à la réservation en dépendent.",
+  "timezone": "Europe/Paris",
+  "week": {
+    "1": [["12:00", "14:30"], ["18:45", "22:30"]],
+    "2": [["12:00", "14:30"], ["18:45", "22:45"]],
+    "3": [["12:00", "14:30"], ["18:45", "22:45"]],
+    "4": [["12:00", "14:30"], ["18:45", "22:45"]],
+    "5": [["12:00", "14:30"], ["18:45", "22:45"]],
+    "6": [["12:00", "14:30"], ["18:45", "22:45"]],
+    "7": [["12:00", "14:30"], ["18:45", "22:45"]]
+  },
+  "closures": [],
+  "exceptions": []
+}
